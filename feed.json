@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "howtolinux",
+    "description": "",
+    "home_page_url": "https://areahints.github.io/howtolinux",
+    "feed_url": "https://areahints.github.io/howtolinux/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Jon Linux"
+    },
+    "items": [
+    ]
+}
