@@ -3,7 +3,7 @@
     <title>Howtolinux</title>
     <link href="https://areahints.github.io/howtolinux/feed.xml" rel="self" />
     <link href="https://areahints.github.io/howtolinux" />
-    <updated>2019-01-11T17:03:30+01:00</updated>
+    <updated>2019-04-24T20:14:24+01:00</updated>
     <author>
         <name>Sysadmin</name>
     </author>
@@ -17,16 +17,16 @@
         <link href="https://areahints.github.io/howtolinux/a-simple-workflow-for-raw-images-and-darktable.html"/>
         <id>https://areahints.github.io/howtolinux/a-simple-workflow-for-raw-images-and-darktable.html</id>
 
-        <updated>2019-01-09T00:06:52+01:00</updated>
+        <updated>2019-04-24T18:06:10+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://areahints.github.io/howtolinux/media/posts/1/" alt="" />
+                        <img src="https://areahints.github.io/howtolinux/media/posts/1/Untitled-design.png" alt="A simple workflow for RAW images and Darktable" />
                     This tutorial assumes you already have Darktable installed. Today i will be sharing my workflow for editing raw images shot with a DSLR on Darktable, i use this on my linux for editing shots and its a time saver. Darktable is an open-source photography workflow&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://areahints.github.io/howtolinux/media/posts/1/" alt="" />
+                    <img src="https://areahints.github.io/howtolinux/media/posts/1/Untitled-design.png" alt="A simple workflow for RAW images and Darktable" />
                 <p>This tutorial assumes you already have Darktable installed.</p>
 <p>Today i will be sharing my workflow for editing raw images shot with a DSLR on Darktable, i use this on my linux for editing shots and its a time saver.</p>
 <p>Darktable is an open-source photography workflow and raw developer application. it allows for non-destructive edits and features a comprehensive set of modules</p>
@@ -41,27 +41,27 @@
 <li>Effects</li>
 <li>Export</li>
 </ul>
-<h2><span style="text-decoration: underline;">Import your files:</span></h2>
+<h2 id="mcetoc_1d0uuqlr70"><span style="text-decoration: underline;">Import your files:</span></h2>
 <figure class="post__image post__image--left" ><img src="https://areahints.github.io/howtolinux/media/posts/1/import.png" alt="Import Panel options in darktable" width="366" height="345">
 <figcaption >Import Panel options in darktable</figcaption>
 </figure>
 <p>this is a no-brainer, you should have the files you want to work with on the PC.</p>
 <p>The options allows for image/images import, folder import and it has support for scanning a camera directly.</p>
 <p> </p>
-<h2> </h2>
-<h2> </h2>
-<h2><span style="text-decoration: underline;">Create Your Backup:</span></h2>
+<h2 id="mcetoc_1d0uuqlr71"> </h2>
+<h2 id="mcetoc_1d0uuqlr72"> </h2>
+<h2 id="mcetoc_1d0uuqlr73"><span style="text-decoration: underline;">Create Your Backup:</span></h2>
 <p>Repeat after me, <strong>backups are good!</strong>, ideally i have a cloud (Dropbox) and offline (External Drive) backup for every RAW i intend to work with, that way i don't lose any file ever!</p>
-<h2><span style="text-decoration: underline;">Organization:</span></h2>
+<h2 id="mcetoc_1d0uuqlr74"><span style="text-decoration: underline;">Organization:</span></h2>
 <figure class="post__image post__image--right" ><img src="https://areahints.github.io/howtolinux/media/posts/1/organize.png" alt="selected images options" width="345" height="437">
 <figcaption >You can use the options to organize your shots</figcaption>
 </figure>
 <p>you can use darktable to rate, delete and move files, i usually rate all photos i want to immediately work on with a 4 star rating, i use 3 stars to mark photos i should give a second chance, i delete or move the rest into a folder called unused. this makes editing your pictures incredibly fast.</p>
 <p> </p>
-<h2> </h2>
-<h2> </h2>
-<h2><span style="text-decoration: underline;">Effects:</span></h2>
-<figure class="post__image post__image--right" ><img src="../../../../home/areahints/Pictures/darktable/effects.png" alt="Darktable Modules" width="389" height="580">
+<h2 id="mcetoc_1d0uuqlr75"> </h2>
+<h2 id="mcetoc_1d0uuqlr76"> </h2>
+<h2 id="mcetoc_1d0uuqlr77"><span style="text-decoration: underline;">Effects:</span></h2>
+<figure class="post__image post__image--left" ><img src="../../../../home/areahints/Pictures/darktable/effects.png" alt="Darktable Modules" width="389" height="580">
 <figcaption >My Favorite Darktable Modules</figcaption>
 </figure>
 <p>Its now time to apply effects, i usually apply</p>
@@ -77,7 +77,7 @@
 <figure class="post__image undefined" ><img src="https://areahints.github.io/howtolinux/media/posts/1/create-a-style.png" alt="create a style" width="632" height="556">
 <figcaption >create a style and reuse it</figcaption>
 </figure>
-<h2><span style="text-decoration: underline;">Export:</span></h2>
+<h2 id="mcetoc_1d0uuqlr78"><span style="text-decoration: underline;">Export:</span></h2>
 <p><img class="post__image--right" src="https://areahints.github.io/howtolinux/media/posts/1/export.png" alt="Export Options" width="367" height="669">after applying your effects, its time to export, you simply navigate to lighttable and select all the pictures you want exported, select the export panel on the right and select your storage, format and global options.</p>
 <p>Darktable exports using whatever preset you select in those options and voila! job complete!</p>
 <p>Using this simple workflow for editing shots with darktable will ensure that you save time and get the job done easily.</p>
