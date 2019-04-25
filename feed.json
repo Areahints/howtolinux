@@ -1,13 +1,29 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "howtolinux",
+    "title": "Howtolinux",
     "description": "",
     "home_page_url": "https://areahints.github.io/howtolinux",
     "feed_url": "https://areahints.github.io/howtolinux/feed.json",
     "user_comment": "",
+    "icon": "https://areahints.github.io/howtolinux/media/website/htl.png",
     "author": {
-        "name": "Jon Linux"
+        "name": "Sysadmin"
     },
     "items": [
+        {
+            "id": "https://areahints.github.io/howtolinux/a-simple-workflow-for-raw-images-and-darktable.html",
+            "url": "https://areahints.github.io/howtolinux/a-simple-workflow-for-raw-images-and-darktable.html",
+            "title": "A simple workflow for RAW images and Darktable",
+            "summary": "This tutorial assumes you already have Darktable installed. Today i will be sharing my workflow for editing raw images shot with a DSLR on Darktable, i use this on my linux for editing shots and its a time saver. Darktable is an open-source photography workflow&hellip;",
+            "content_html": "<p>This tutorial assumes you already have Darktable installed.</p>\n<p>Today i will be sharing my workflow for editing raw images shot with a DSLR on Darktable, i use this on my linux for editing shots and its a time saver.</p>\n<p>Darktable is an open-source photography workflow and raw developer application. it allows for non-destructive edits and features a comprehensive set of modules</p>\n<figure class=\"post__image post__image--full\" ><img src=\"https://areahints.github.io/howtolinux/media/posts/1/Screenshot_2018-12-18_10-36-39.png\" alt=\"Darktable Overview\" width=\"1366\" height=\"429\">\n<figcaption >An overview of darktable </figcaption>\n</figure>\n<p>the workflow i employ when working with RAWs is</p>\n<ul>\n<li>Import</li>\n<li>Backup</li>\n<li>Organization</li>\n<li>Effects</li>\n<li>Export</li>\n</ul>\n<h2 id=\"mcetoc_1d0uuqlr70\"><span style=\"text-decoration: underline;\">Import your files:</span></h2>\n<figure class=\"post__image post__image--left\" ><img src=\"https://areahints.github.io/howtolinux/media/posts/1/import.png\" alt=\"Import Panel options in darktable\" width=\"366\" height=\"345\">\n<figcaption >Import Panel options in darktable</figcaption>\n</figure>\n<p>this is a no-brainer, you should have the files you want to work with on the PC.</p>\n<p>The options allows for image/images import, folder import and it has support for scanning a camera directly.</p>\n<p> </p>\n<h2 id=\"mcetoc_1d0uuqlr71\"> </h2>\n<h2 id=\"mcetoc_1d0uuqlr72\"> </h2>\n<h2 id=\"mcetoc_1d0uuqlr73\"><span style=\"text-decoration: underline;\">Create Your Backup:</span></h2>\n<p>Repeat after me, <strong>backups are good!</strong>, ideally i have a cloud (Dropbox) and offline (External Drive) backup for every RAW i intend to work with, that way i don't lose any file ever!</p>\n<h2 id=\"mcetoc_1d0uuqlr74\"><span style=\"text-decoration: underline;\">Organization:</span></h2>\n<figure class=\"post__image post__image--right\" ><img src=\"https://areahints.github.io/howtolinux/media/posts/1/organize.png\" alt=\"selected images options\" width=\"345\" height=\"437\">\n<figcaption >You can use the options to organize your shots</figcaption>\n</figure>\n<p>you can use darktable to rate, delete and move files, i usually rate all photos i want to immediately work on with a 4 star rating, i use 3 stars to mark photos i should give a second chance, i delete or move the rest into a folder called unused. this makes editing your pictures incredibly fast.</p>\n<p> </p>\n<h2 id=\"mcetoc_1d0uuqlr75\"> </h2>\n<h2 id=\"mcetoc_1d0uuqlr76\"> </h2>\n<h2 id=\"mcetoc_1d0uuqlr77\"><span style=\"text-decoration: underline;\">Effects:</span></h2>\n<figure class=\"post__image post__image--left\" ><img src=\"../../../../home/areahints/Pictures/darktable/effects.png\" alt=\"Darktable Modules\" width=\"389\" height=\"580\">\n<figcaption >My Favorite Darktable Modules</figcaption>\n</figure>\n<p>Its now time to apply effects, i usually apply</p>\n<ul>\n<li>levels</li>\n<li>contrast brightness saturation</li>\n<li>shadows and highlights</li>\n<li>denoise (profile)</li>\n<li>graduated density</li>\n<li>exposure</li>\n</ul>\n<p>whats more you can save any number of effects together as a preset, simply click on the history panel on the left and you should see all the effects you applied, at the bottom is a small button that says \"<strong>create a style from the current history stack</strong>\" it launches a small window that allows you to select which filters you want as well as a name and description.</p>\n<figure class=\"post__image undefined\" ><img src=\"https://areahints.github.io/howtolinux/media/posts/1/create-a-style.png\" alt=\"create a style\" width=\"632\" height=\"556\">\n<figcaption >create a style and reuse it</figcaption>\n</figure>\n<h2 id=\"mcetoc_1d0uuqlr78\"><span style=\"text-decoration: underline;\">Export:</span></h2>\n<p><img class=\"post__image--right\" src=\"https://areahints.github.io/howtolinux/media/posts/1/export.png\" alt=\"Export Options\" width=\"367\" height=\"669\">after applying your effects, its time to export, you simply navigate to lighttable and select all the pictures you want exported, select the export panel on the right and select your storage, format and global options.</p>\n<p>Darktable exports using whatever preset you select in those options and voila! job complete!</p>\n<p>Using this simple workflow for editing shots with darktable will ensure that you save time and get the job done easily.</p>\n<p> </p>\n<p> </p>\n<p> </p>\n<p> </p>\n<p>With this simple workflow, you can use darktable to edit your shots quickly and conveniently. daktable is open source and can be found here.</p>\n<p>Do you have any questions or tips you want to share? leave a comment below and don't forget to share this article!</p>\n<p> </p>",
+            "image": "https://areahints.github.io/howtolinux/media/posts/1/Untitled-design.png",
+            "author": {
+                "name": "Sysadmin"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-01-09T00:06:52+01:00",
+            "date_modified": "2019-04-24T18:06:10+01:00"
+        }
     ]
 }
